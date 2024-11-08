@@ -1,0 +1,3 @@
+/Users/gigi/Desktop/Elis/INFORMATICA/Codici/C++/Esonero/cmake-build-debug/CMakeFiles/Esonero.dir
+/Users/gigi/Desktop/Elis/INFORMATICA/Codici/C++/Esonero/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gigi/Desktop/Elis/INFORMATICA/Codici/C++/Esonero/cmake-build-debug/CMakeFiles/rebuild_cache.dir

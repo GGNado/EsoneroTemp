@@ -1,0 +1,21 @@
+Roma 27 ottobre 2023.
+Si prega di salvare tutti gli esercizi in linguaggio C++ in un unico file con nome Cognome. cpp
+(o .txt),
+dove Cognome indica il cognome del candidato.
+Si raccomanda di salvare frequentemente il lavoro svolto.
+All'inizio dei vostri file apponete un commento del tipo
+//Cognome:
+//Nome:
+//Matricola:
+CRISTA
+NO BLUE
+Sta per cominciare la coppa del mondo di sci.
+Si vuole costruire un sistema per gestire l'andamento della classifica generale dello slalom speciale femminile.
+In particolare vogliamo avevre a disposizione l'anagrafica delle atlete in ordine di iscrizione (dove il numero di iscrizione corrisponde al pettorale) con: Cognome, Nome, punteggio; organizzato in una array.
+Si vogliono poi stampare la classifica di ogni gara (messa a disposizione con un array dove in posizione
+O c'è il pettorale del primo arrivato, in posizione uno del secondo e così via) con i relativi punteggi in classifica generale.
+In particolare i punteggi saranno strutturati in un array dove in posizione 0 c'è il punteggio per il primo arriçato (100 punti), in posizione 1 per il secondo (50 punti, poi il terzo (60 punti) ,il quarto (50), il quinto(40) e poi via via gli altri scendendo di 5 punti in 5 punti.
+Si realizzi:
+la definizione delle strutture dati, una funzione che permetta di caricare l'array delle atlete, una funzione che stampi le atlete in ordine di iscrizione (cognme, nome, punteggio)
+una funzione che aggiorni il punteggio sulla base dell'ordine di arrivo. una funzione che stampi le atlete in ordine di arrivo (cogonme, nome, punteggio)
+si generalizzi il programma per un numero n di gare
